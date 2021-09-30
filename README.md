@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on html
-- 📫 How to reach me ...
+- 📫 How to reach me e-mail thomas12dekker@gmail.com
 
 <!---
 Thomas123456789bobby/Thomas123456789bobby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

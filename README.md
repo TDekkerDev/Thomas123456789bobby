@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thomas123456789bobby
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on html
+- 💞️ I’m looking to collaborate on javascript
 - 📫 How to reach me e-mail thomas12dekker@gmail.com
 
 <!---

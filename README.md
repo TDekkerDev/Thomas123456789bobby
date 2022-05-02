@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thomas123456789bobby
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on html
 - 📫 How to reach me e-mail thomas12dekker@gmail.com
 
